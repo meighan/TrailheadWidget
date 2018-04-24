@@ -38,6 +38,6 @@ var head = document.head;
 var link = document.createElement("link");
 link.type = "text/css";
 link.rel = "stylesheet";
-link.href = 'https://github.com/meighan/TrailheadWidget/blob/master/Trailblazer.css';
+link.href = 'https://raw.githubusercontent.com/meighan/TrailheadWidget/master/Trailblazer.css';
 head.appendChild(link);
 })();
